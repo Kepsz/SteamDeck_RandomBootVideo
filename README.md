@@ -1,10 +1,11 @@
 # SteamDeck_RandomBootVideo
 
+V1.0
+
 This is a fork of MKirafi's awsome random boot vid script for SteamDeck
 Original link: https://gist.github.com/MKirafi/710fc2b6c90d55a68a775d24925aad08
 
 Modification: changed to create / delete symbolic link instead of using mv to replace media
-V1.0
 
 Usage:
 Put your downloaded (https://steamdeckrepo.com) videos into this folder: /.steam/root/config/uioverrides/movies
@@ -21,7 +22,6 @@ Ez egy forkja MKirafi fasza boot videó váltó scriptjének.
 Eredeti link: https://gist.github.com/MKirafi/710fc2b6c90d55a68a775d24925aad08
 
 Módosítás: átírtam, hogy szimbólikus linkeket csináljon fájlok mozgatása helyett
-V1.0
 
 Használat:
 Tedd a letöltött (https://steamdeckrepo.com) videóidat ide: /.steam/root/config/uioverrides/movies
