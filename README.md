@@ -11,7 +11,7 @@ Usage:
 Put your downloaded (https://steamdeckrepo.com) videos into this folder: /.steam/root/config/uioverrides/movies\
 Put this file into your home folder on the SteamDeck.\
 Give running priviledge to the file by execute this: chmod +x randbootvid.sh\
-Run the script by this command: ./randbootvid\
+Run the script by this command: ./randbootvid.sh\
 note, rm command may warn you about the missing deck_startup.webm file, just ignore it.
 
 
@@ -26,5 +26,5 @@ Használat:
 Tedd a letöltött (https://steamdeckrepo.com) videóidat ide: /.steam/root/config/uioverrides/movies\
 Másold ezt a fájlt a home könyvtáradba a deck-en.\
 Adj futási jogot a fájlnak: chmod +x randbootvid.sh\
-Futtasd a fájlt: ./randbootvid\
+Futtasd a fájlt: ./randbootvid.sh\
 megjegyzés, az rm panaszkodhat a hiányzó deck_startup.webm file miatt, ignoráld.
